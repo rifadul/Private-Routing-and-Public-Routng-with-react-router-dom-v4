@@ -31,7 +31,7 @@ function App() {
                     </li>
 
                     <li>
-                        <Link to='/signup'>UseAuth (public) </Link>
+                        <Link to='/signup'>Signup (public) </Link>
                     </li>
                     <li>
                         <Link to='/login'>Login (public) </Link>
